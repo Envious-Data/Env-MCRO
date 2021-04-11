@@ -1,7 +1,7 @@
 # Env-MCRO
  A Raspberry Pi Pico powered Macro board, like a Streamdeck but cheaper and simpler.
 
-###What This?
+### What This?
 This is another another mechanical keyboard type thing, this is a small 12 key macro board intended to be used for F13 to F24 but you can do whatever.
 
 Once again This will use KMK and Circuitpython.
