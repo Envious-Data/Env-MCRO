@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 57)
+    (drawings 61)
     (tracks 139)
     (zones 0)
     (modules 30)
@@ -879,7 +879,7 @@
       (xy -2.729513 -2.420812) (xy -2.597915 -2.453813) (xy -2.479963 -2.429638)) (layer F.SilkS) (width 0.01))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 607ACEC0) (tstamp 6073059F)
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 6080AC02) (tstamp 6073059F)
     (at 170.5 106)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
@@ -893,10 +893,10 @@
     )
     (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
     (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask Eco1.User))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 607ACEBA) (tstamp 6073289E)
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 6080AC08) (tstamp 6073289E)
     (at 65.9 41.3)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
@@ -910,10 +910,10 @@
     )
     (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
     (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask Eco1.User))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 607ACEBD) (tstamp 6073058F)
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 6080AC05) (tstamp 6073058F)
     (at 65.9 106)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
@@ -927,10 +927,10 @@
     )
     (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
     (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask Eco1.User))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 607ACEB8) (tstamp 60730587)
+  (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 6080ABFF) (tstamp 60730587)
     (at 170.5 41.3)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
@@ -944,7 +944,7 @@
     )
     (fp_circle (center 0 0) (end 2.45 0) (layer F.CrtYd) (width 0.05))
     (fp_circle (center 0 0) (end 2.2 0) (layer Cmts.User) (width 0.15))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask Eco1.User))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 20)
@@ -1943,6 +1943,10 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
+  (gr_circle (center 65.900704 41.3004) (end 66.556136 42.1894) (layer Edge.Cuts) (width 0.1) (tstamp 6080AC5C))
+  (gr_circle (center 65.900704 105.9942) (end 66.556136 106.8832) (layer Edge.Cuts) (width 0.1) (tstamp 6080AC5C))
+  (gr_circle (center 170.497904 105.9942) (end 171.153336 106.8832) (layer Edge.Cuts) (width 0.1) (tstamp 6080AC5C))
+  (gr_circle (center 170.497904 41.3004) (end 171.153336 42.1894) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 120.4348 65.2485) (end 120.4348 79.2479) (layer Eco2.User) (width 0.1))
   (gr_line (start 125.4855 55.4352) (end 125.4855 41.436) (layer Eco2.User) (width 0.1))
   (gr_line (start 106.4355 65.2485) (end 120.4348 65.2485) (layer Eco2.User) (width 0.1))
