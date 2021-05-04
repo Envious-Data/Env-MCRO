@@ -2,6 +2,7 @@
  A Raspberry Pi Pico powered Macro board, like a Streamdeck but cheaper and simpler.
 
 ![Board Image](EnvMCRO.png)
+(btw this image is a bit outdated, some of the silkscreen has changed but its physically the same)
 
 ### What This?
 This is another another mechanical keyboard type thing, this is a small 12 key macro board intended to be used for F13 to F24 but you can do whatever.
@@ -17,6 +18,7 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 * 12x 1N4148 Diodes (through hole)
 * 12x Keycaps
 * Macro Board PCB
+- (The board dimentions are: 109.6mm x 69.7mm)
 
 ### Quick setup guide
 * Flash Circuitpython to your Raspberry Pi Pico
