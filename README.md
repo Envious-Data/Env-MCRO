@@ -26,4 +26,6 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 * Extract the contents to your Raspberry Pi Pico
 * Replace 'main.py' with [This Keymap](https://github.com/Envious-Data/Env-MCRO/blob/587756cf2a3b7770376975891cb7b5841d7c57dd/KMKKeymap.py)
 
+![The files on your pico should look like this](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_Firmware/example.jpg)
+
 - By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/keycodes.md) and look at what keys you can re-map with
