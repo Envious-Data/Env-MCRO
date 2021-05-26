@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Only.pretty)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/Logo.Pretty)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+)
