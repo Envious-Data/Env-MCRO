@@ -22,10 +22,14 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 
 ### Quick setup guide
 * Flash Circuitpython to your Raspberry Pi Pico
-* Download [This Firmware zip](https://github.com/Envious-Data/Env-KB/blob/53389ea669cd263dd28ee5c4033baed8fd03f72c/_Firmware/EnvKB-FW.zip)
+* It will show up as a 1MB USB drive called "Circuitpy"
+* Download [This Firmware zip](_firmware/EnvMCRO-FW.zip)
 * Extract the contents to your Raspberry Pi Pico
-* Replace 'main.py' with [This Keymap](https://github.com/Envious-Data/Env-MCRO/blob/587756cf2a3b7770376975891cb7b5841d7c57dd/KMKKeymap.py)
 
+* The contents of your Raspberry Pi should look like the screenshot below.
 ![The files on your pico should look like this](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_Firmware/example.jpg)
+(make sure only boot.py and code.py are the only files on your raspberry Pi as it will try to run a file called main.py instead if it exists.)
 
-- By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/keycodes.md) and look at what keys you can re-map with
+- By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/keycodes.md) and look at what keys you can re-map with.
+
+not all software supports the F13 to F24 keys but a couple of examples that do are OBS and BeamNG.Drive
