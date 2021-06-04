@@ -1,0 +1,6 @@
+"Comment","Designator","Footprint","LCSC Part #"
+"SK6812","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12","LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm","no_part_number"
+"D","D_11,D_10,D_9,D_8,D_7,D_6,D_5,D_4,D_3,D_2,D_1,D_0","D_DO-35_SOD27_P7.62mm_Horizontal","no_part_number"
+"MountingHole","H1,H2,H3,H4","MountingHole_2.2mm_M2","no_part_number"
+"KEYSW","K_11,K_10,K_9,K_8,K_7,K_6,K_5,K_4,K_3,K_2,K_1,K_0","MXOnly-1U-NoLED","no_part_number"
+"Pico","U1","RPi_Pico_SMD_TH","no_part_number"

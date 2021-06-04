@@ -487,4 +487,251 @@ F 3 "~" H 4800 4500 50  0001 C CNN
 	1    4800 4500
 	1    0    0    -1  
 $EndComp
+$Comp
+L LED:SK6812 D1
+U 1 1 60BA8FA5
+P 6700 1400
+F 0 "D1" H 7044 1446 50  0000 L CNN
+F 1 "SK6812" H 7044 1355 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 6750 1100 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6800 1025 50  0001 L TNN
+	1    6700 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D2
+U 1 1 60BABCEC
+P 7600 1400
+F 0 "D2" H 7944 1446 50  0000 L CNN
+F 1 "SK6812" H 7944 1355 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 7650 1100 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7700 1025 50  0001 L TNN
+	1    7600 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D3
+U 1 1 60BAC751
+P 8450 1400
+F 0 "D3" H 8794 1446 50  0000 L CNN
+F 1 "SK6812" H 8794 1355 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 8500 1100 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 8550 1025 50  0001 L TNN
+	1    8450 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D4
+U 1 1 60BACDE5
+P 9300 1400
+F 0 "D4" H 9644 1446 50  0000 L CNN
+F 1 "SK6812" H 9644 1355 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 9350 1100 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9400 1025 50  0001 L TNN
+	1    9300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D5
+U 1 1 60BAF88D
+P 6700 2200
+F 0 "D5" H 7044 2246 50  0000 L CNN
+F 1 "SK6812" H 7044 2155 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 6750 1900 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6800 1825 50  0001 L TNN
+	1    6700 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D6
+U 1 1 60BAFBAF
+P 7600 2200
+F 0 "D6" H 7944 2246 50  0000 L CNN
+F 1 "SK6812" H 7944 2155 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 7650 1900 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7700 1825 50  0001 L TNN
+	1    7600 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D7
+U 1 1 60BAFBB9
+P 8450 2200
+F 0 "D7" H 8794 2246 50  0000 L CNN
+F 1 "SK6812" H 8794 2155 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 8500 1900 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 8550 1825 50  0001 L TNN
+	1    8450 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D8
+U 1 1 60BAFBC3
+P 9300 2200
+F 0 "D8" H 9644 2246 50  0000 L CNN
+F 1 "SK6812" H 9644 2155 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 9350 1900 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9400 1825 50  0001 L TNN
+	1    9300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D9
+U 1 1 60BB3E7B
+P 6700 3000
+F 0 "D9" H 7044 3046 50  0000 L CNN
+F 1 "SK6812" H 7044 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 6750 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6800 2625 50  0001 L TNN
+	1    6700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D10
+U 1 1 60BB4225
+P 7600 3000
+F 0 "D10" H 7944 3046 50  0000 L CNN
+F 1 "SK6812" H 7944 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 7650 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7700 2625 50  0001 L TNN
+	1    7600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D11
+U 1 1 60BB422F
+P 8450 3000
+F 0 "D11" H 8794 3046 50  0000 L CNN
+F 1 "SK6812" H 8794 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 8500 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 8550 2625 50  0001 L TNN
+	1    8450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D12
+U 1 1 60BB4239
+P 9300 3000
+F 0 "D12" H 9644 3046 50  0000 L CNN
+F 1 "SK6812" H 9644 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 9350 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9400 2625 50  0001 L TNN
+	1    9300 3000
+	1    0    0    -1  
+$EndComp
+Text GLabel 3900 4250 2    50   Input ~ 0
+VBUS
+Text GLabel 5900 800  0    50   Input ~ 0
+VBUS
+Wire Wire Line
+	5900 800  6700 800 
+Wire Wire Line
+	6700 800  6700 1100
+Wire Wire Line
+	6700 800  7600 800 
+Wire Wire Line
+	7600 800  7600 1100
+Connection ~ 6700 800 
+Wire Wire Line
+	7600 800  8450 800 
+Wire Wire Line
+	8450 800  8450 1100
+Connection ~ 7600 800 
+Wire Wire Line
+	8450 800  9300 800 
+Wire Wire Line
+	9300 800  9300 1100
+Connection ~ 8450 800 
+Wire Wire Line
+	9300 800  10200 800 
+Wire Wire Line
+	10200 1900 9300 1900
+Connection ~ 9300 800 
+Wire Wire Line
+	9300 1900 8450 1900
+Connection ~ 9300 1900
+Wire Wire Line
+	8450 1900 7600 1900
+Connection ~ 8450 1900
+Wire Wire Line
+	7600 1900 6700 1900
+Connection ~ 7600 1900
+Wire Wire Line
+	6700 1900 6150 1900
+Wire Wire Line
+	6150 2700 6700 2700
+Connection ~ 6700 1900
+Wire Wire Line
+	6700 2700 7600 2700
+Connection ~ 6700 2700
+Wire Wire Line
+	7600 2700 8450 2700
+Connection ~ 7600 2700
+Wire Wire Line
+	8450 2700 9300 2700
+Connection ~ 8450 2700
+Wire Wire Line
+	5900 1400 6400 1400
+Text GLabel 5900 1400 0    50   Input ~ 0
+LEDDINPIN
+Text GLabel 2500 4850 0    50   Input ~ 0
+LEDDINPIN
+Wire Wire Line
+	7000 1400 7300 1400
+Wire Wire Line
+	7900 1400 8150 1400
+Wire Wire Line
+	8750 1400 9000 1400
+Wire Wire Line
+	10200 800  10200 1900
+Wire Wire Line
+	9600 1400 9600 1850
+Wire Wire Line
+	9600 1850 6400 1850
+Wire Wire Line
+	6400 1850 6400 2200
+Wire Wire Line
+	7000 2200 7300 2200
+Wire Wire Line
+	7900 2200 8150 2200
+Wire Wire Line
+	8750 2200 9000 2200
+Wire Wire Line
+	6150 1900 6150 2700
+Wire Wire Line
+	9600 2200 9600 2550
+Wire Wire Line
+	9600 2550 6400 2550
+Wire Wire Line
+	6400 2550 6400 3000
+Wire Wire Line
+	7000 3000 7300 3000
+Wire Wire Line
+	7900 3000 8150 3000
+Wire Wire Line
+	8750 3000 9000 3000
+Text GLabel 6700 1700 0    50   Input ~ 0
+GND
+Text GLabel 7600 1700 0    50   Input ~ 0
+GND
+Text GLabel 8450 1700 0    50   Input ~ 0
+GND
+Text GLabel 9300 1700 0    50   Input ~ 0
+GND
+Text GLabel 6700 2500 0    50   Input ~ 0
+GND
+Text GLabel 7600 2500 0    50   Input ~ 0
+GND
+Text GLabel 8450 2500 0    50   Input ~ 0
+GND
+Text GLabel 9300 2500 0    50   Input ~ 0
+GND
+Text GLabel 6700 3300 0    50   Input ~ 0
+GND
+Text GLabel 7600 3300 0    50   Input ~ 0
+GND
+Text GLabel 8450 3300 0    50   Input ~ 0
+GND
+Text GLabel 9300 3300 0    50   Input ~ 0
+GND
 $EndSCHEMATC
