@@ -33,3 +33,7 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 - By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/keycodes.md) and look at what keys you can re-map with.
 
 not all software supports the F13 to F24 keys but a couple of examples that do are OBS and BeamNG.Drive
+
+
+### extra bits!
+User TonyPJ on Thingiverse has made a small 3d printable stand: https://www.thingiverse.com/thing:4896875
