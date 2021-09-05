@@ -779,7 +779,7 @@ U 1 1 61358798
 P 5400 2750
 F 0 "SW1" H 5400 3000 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 5400 3026 50  0001 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 5250 2910 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" H 5250 2910 50  0001 C CNN
 F 3 "~" H 5400 3010 50  0001 C CNN
 	1    5400 2750
 	1    0    0    1   
@@ -826,7 +826,7 @@ U 1 1 613B686B
 P 5400 1900
 F 0 "SW3" H 5400 2150 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 5400 2176 50  0001 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 5250 2060 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" H 5250 2060 50  0001 C CNN
 F 3 "~" H 5400 2160 50  0001 C CNN
 	1    5400 1900
 	1    0    0    1   
@@ -863,7 +863,7 @@ U 1 1 613BEFFD
 P 5400 900
 F 0 "SW2" H 5400 1150 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 5400 1176 50  0001 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 5250 1060 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" H 5250 1060 50  0001 C CNN
 F 3 "~" H 5400 1160 50  0001 C CNN
 	1    5400 900 
 	1    0    0    1   
