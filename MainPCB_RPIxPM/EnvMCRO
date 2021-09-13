@@ -1,0 +1,6 @@
+Reference, Quantity, Value, Footprint, Datasheet
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 ,12,"SK6812MINI-E","sk6812mini:MX_SK6812MINI-E_REV","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+D_0 D_1 D_2 D_3 D_4 D_5 D_6 D_7 D_8 D_9 D_10 D_11 ,12,"D","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","~"
+H1 H2 H3 H4 ,4,"MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+K_0 K_1 K_2 K_3 K_4 K_5 K_6 K_7 K_8 K_9 K_10 K_11 ,12,"KEYSW","MX_Only:MXOnly-1U-NoLED",""
+U1 ,1,"Pico","MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH",""
