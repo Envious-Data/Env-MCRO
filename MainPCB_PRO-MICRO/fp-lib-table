@@ -1,8 +1,0 @@
-(fp_lib_table
-  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/footprints/Logo.Pretty)(options "")(descr ""))
-  (lib (name mb)(type KiCad)(uri ${KIPRJMOD}/footprints/mb.pretty)(options "")(descr ""))
-  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/footprints/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
-  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/footprints/MX_Only.pretty)(options "")(descr ""))
-  (lib (name sk6812mini)(type KiCad)(uri ${KIPRJMOD}/footprints/sk6812mini.pretty)(options "")(descr ""))
-  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/footprints/promicro.pretty)(options "")(descr ""))
-)
