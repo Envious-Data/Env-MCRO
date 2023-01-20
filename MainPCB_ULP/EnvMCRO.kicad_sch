@@ -2538,7 +2538,7 @@
   (symbol (lib_id "power:GND") (at 123.19 99.06 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061410bf8)
-    (property "Reference" "#PWR?" (id 0) (at 116.84 99.06 0)
+    (property "Reference" "#PWR0104" (id 0) (at 116.84 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 119.9388 99.187 90)
@@ -2587,7 +2587,7 @@
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000061410bf8"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060bcd958"
       (reference "D1") (unit 1) (value "SK6812MINI-E") (footprint "sk6812mini:MX_SK6812MINI-E_REV")
