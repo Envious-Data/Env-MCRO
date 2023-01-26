@@ -30,9 +30,13 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 ![The files on your pico should look like this](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_Firmware/example.jpg)
 (make sure only boot.py and code.py are the only files on your raspberry Pi as it will try to run a file called main.py instead if it exists.)
 
-- By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/keycodes.md) and look at what keys you can re-map with.
+- By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md) and look at what keys you can re-map with.
 
 not all software supports the F13 to F24 keys but a couple of examples that do are OBS and BeamNG.Drive
+
+### QMK
+Ive built QMK for these boards, if you want to remap it be sure to use the VIA version of the MCRO firmware, download the respective via JSON from the folder and sideload it in via.
+https://github.com/Envious-Data/EnvKB-QMK/tree/main/_PREBUILTFIRMWARES
 
 
 ### extra bits!
