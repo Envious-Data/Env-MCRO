@@ -17,20 +17,21 @@ I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will prob
 * 12x Keyboard Switches
 * 12x 1N4148 Diodes (through hole)
 * 12x Keycaps
+* 1x Rotary Encoder (optional)
+* 12X SK6812 Mini-e LEDs (optional)
 * Macro Board PCB
 - (The board dimentions are: 109.6mm x 69.7mm)
 
 ### Quick setup guide
-* Flash Circuitpython to your Raspberry Pi Pico
-* It will show up as a 1MB USB drive called "Circuitpy"
-* Download [This Firmware zip](_firmware/EnvMCRO-FW.zip)
-* Extract the contents to your Raspberry Pi Pico
+* Connect the Raspberry pi pico to your PC holding the Bootsel button
+  * a USB Drive should show up called RP2-BOOT
+* Download [This](blob:https://github.com/d1d8b8da-7e8d-4b2f-9aaf-276d6753a1cd) File and copy it to the drive called RP2-BOOT
 
-* The contents of your Raspberry Pi should look like the screenshot below.
-![The files on your pico should look like this](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_Firmware/example.jpg)
-(make sure only boot.py and code.py are the only files on your raspberry Pi as it will try to run a file called main.py instead if it exists.)
+the board should reboot and startup with the default keymap, you are good to use it however you wish but if you wish to re-map the board you can look at the QMK code and modify it as you see fit.
 
-- By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md) and look at what keys you can re-map with.
+
+
+By default the macro board is mapped with keys F13 to F24 but you can go [Here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md) and look at what keys you can re-map with.
 
 not all software supports the F13 to F24 keys but a couple of examples that do are OBS and BeamNG.Drive
 
