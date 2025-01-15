@@ -6,9 +6,6 @@
 
 ### What This?
 This is another another mechanical keyboard type thing, this is a small 12 key macro board intended to be used for F13 to F24 but you can do whatever.
-
-Once again This will use KMK and Circuitpython.
-
 I do feel like the rpi pico is a bit overkill for this use, a tiny2040 will probably fit better, Ill have to see if someone has made kidcad bits for that if not Ill probably have to make them my self or whatever.
 
 
@@ -42,3 +39,5 @@ https://github.com/Envious-Data/EnvKB-QMK/tree/main/_PREBUILTFIRMWARES
 
 ### extra bits!
 User TonyPJ on Thingiverse has made a small 3d printable stand: https://www.thingiverse.com/thing:4896875
+
+Project was Selected for Booster Conf as part of a Mechanical Keyboards Talk, a 3d printable case was made and can be found here: https://github.com/vidarw/booster-2025-macroboard
